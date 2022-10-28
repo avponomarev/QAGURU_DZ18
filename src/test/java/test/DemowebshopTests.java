@@ -1,6 +1,5 @@
 package test;
 
-import base.TestBase;
 import data.FakerUser;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
